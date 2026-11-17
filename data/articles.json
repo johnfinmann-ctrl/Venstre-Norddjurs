@@ -1,6 +1,50 @@
 {
-  "updated": "15-11-2026",
+  "updated": "17-11-2026",
   "articles": [
+    {
+      "title": "Kasper Bjerregaard valgt til Venstres hovedbestyrelse",
+      "date": "2026-11-15",
+      "source": "Venstre Norddjurs / TV SYD",
+      "summary": "Norddjurs' borgmester Kasper Bjerregaard blev valgt til Venstres hovedbestyrelse ved landsmødet i Herning den 14.–15. november. Læs den eksterne omtale og se oplysninger om landsmødet.",
+      "url": "https://syd.tv2reg.digital/haderslev/haderslev-borgmester-genvalgt-til-venstres-hovedbestyrelse-28400",
+      "people": [
+        "Kasper Juncher Bjerregaard"
+      ],
+      "type": "medieomtale",
+      "authorshipVerified": false,
+      "image": "assets/landsmoede-3.jpg",
+      "extraLinks": [
+        {
+          "label": "Venstres landsmøde 2026",
+          "url": "https://www.venstre.dk/partiet/landsmoede"
+        },
+        {
+          "label": "Kaspers kommunale profil",
+          "url": "https://norddjurs.dk/politik-og-indflydelse/kommunalbestyrelsen/borgmester-kasper-bjerregaard"
+        }
+      ]
+    },
+    {
+      "title": "Syd- og Norddjurs var repræsenteret på Venstres Landsmøde i Herning",
+      "date": "2026-11-15",
+      "source": "Venstre Djursland",
+      "summary": "Venstres Landsmøde 2026 samlede deltagere i Herning den 14.–15. november til politiske drøftelser, fællesskab og valg. Se billeder fra mødet og læs det officielle program.",
+      "url": "https://www.venstre.dk/partiet/landsmoede",
+      "people": [],
+      "type": "partinyhed",
+      "authorshipVerified": false,
+      "image": "assets/landsmoede-1.jpg",
+      "extraLinks": [
+        {
+          "label": "Program og dagsorden",
+          "url": "https://www.venstre.dk/partiet/landsmoede/program"
+        },
+        {
+          "label": "Venstre Norddjurs",
+          "url": "https://norddjursvenstre.dk/"
+        }
+      ]
+    },
     {
       "title": "Beslutninger fra kommunalbestyrelsen den 10. november",
       "date": "2026-11-10",
